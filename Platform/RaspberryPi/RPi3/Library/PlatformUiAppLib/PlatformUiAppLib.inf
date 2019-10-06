@@ -22,7 +22,7 @@
 [Packages]
   MdePkg/MdePkg.dec
   MdeModulePkg/MdeModulePkg.dec
-  Platform/RaspberryPi/RPi3/RPi3.dec
+  Platform/RaspberryPi/RPi4/RPi4.dec
 
 [LibraryClasses]
   UefiLib

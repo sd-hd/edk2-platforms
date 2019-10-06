@@ -27,7 +27,7 @@
   ArmPkg/ArmPkg.dec
   MdePkg/MdePkg.dec
   EmbeddedPkg/EmbeddedPkg.dec
-  Platform/RaspberryPi/RPi3/RPi3.dec
+  Platform/RaspberryPi/RPi4/RPi4.dec
 
 [LibraryClasses]
   DebugLib
