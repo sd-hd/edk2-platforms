@@ -15,8 +15,8 @@
 #
 ################################################################################
 [Defines]
-  PLATFORM_NAME                  = RPi3
-  PLATFORM_GUID                  = 5d30c4fc-93cf-40c9-8486-3badc0410816
+  PLATFORM_NAME                  = RPi4
+  PLATFORM_GUID                  = bd6ae5ab-375f-482a-914a-771448ff4910
   PLATFORM_VERSION               = 1.0
   DSC_SPECIFICATION              = 0x0001001A
   OUTPUT_DIRECTORY               = Build/$(PLATFORM_NAME)

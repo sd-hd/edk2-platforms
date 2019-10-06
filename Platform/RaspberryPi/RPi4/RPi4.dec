@@ -9,8 +9,8 @@
 
 [Defines]
   DEC_SPECIFICATION              = 0x0001001A
-  PACKAGE_NAME                   = RPi3Pkg
-  PACKAGE_GUID                   = DFA0CA8B-F3AC-4607-96AC-46FA04B84DCC
+  PACKAGE_NAME                   = RPi4Pkg
+  PACKAGE_GUID                   = 3bf9c493-3a4e-45a6-b3d2-3b531ff7eeb6
   PACKAGE_VERSION                = 1.0
 
 [Includes]
