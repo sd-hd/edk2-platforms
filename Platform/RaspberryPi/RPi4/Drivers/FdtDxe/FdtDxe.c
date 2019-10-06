@@ -475,14 +475,6 @@ FdtDxeInitialize (
     } else {
       // www.raspberrypi.org/documentation/hardware/raspberrypi/revision-codes/README.md
       switch ((BoardRevision >> 4) & 0xFF) {
-      case 0x08:
-        DEBUG ((DEBUG_INFO, "Using Raspberry Pi 3 Model B internal Device Tree\n"));
-        FdtGuid = &gRaspberryPi3ModelBFdtGuid;
-        break;
-      case 0x0D:
-        DEBUG ((DEBUG_INFO, "Using Raspberry Pi 3 Model B+ internal Device Tree\n"));
-        FdtGuid = &gRaspberryPi3ModelBPlusFdtGuid;
-        break;
       case 0x11:
         DEBUG ((DEBUG_INFO, "Using Raspberry Pi 4 Model B internal Device Tree\n"));
         FdtGuid = &gRaspberryPi4ModelBFdtGuid;
